@@ -1,4 +1,4 @@
-```md
+
 # Lao GPT Chatbot
 
 This project is a web-based chatbot application named "Lao GPT". It uses a modern, responsive design and supports multiple languages including Lao, Thai, and Vietnamese-English. The chatbot interface is built with HTML, CSS, and JavaScript.
@@ -44,6 +44,5 @@ This project is a web-based chatbot application named "Lao GPT". It uses a moder
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 ## License
+Khamko 
 
-This project is licensed Khamko 
-```
